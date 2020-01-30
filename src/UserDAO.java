@@ -1,4 +1,4 @@
-import java.util.List;
+/*import java.util.List;
 
 public interface UserDAO {
     List<User> findAllUsers();
@@ -6,3 +6,4 @@ public interface UserDAO {
     void save(User user);
     void remove(Long id);
 }
+*/

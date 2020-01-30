@@ -1,3 +1,4 @@
-public class User {
+/*public class User {
   private long id
 }
+*/
